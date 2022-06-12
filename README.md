@@ -50,3 +50,19 @@ Python 3.8, Numpy 1.21, Pandas 1.3, Tensorflow 2.7, Matplotlib 3.5
 ## 3.3 결과
 ![image](https://user-images.githubusercontent.com/94373380/173244822-51eb01d7-42b6-4e90-81bb-5530ca7a1573.png)
 
+
+# 4. 마스크 착용여부 판별기
+![image](https://user-images.githubusercontent.com/94373380/173244871-9613c037-1ed9-4aa8-9181-7397eb696660.png)
+
+## 4.1 사용기술
+Python 3.8, Numpy 1.21, OpenCV 4.5, Tensorflow 2.7, Matplotlib 3.5
+
+## 4.2 개발 일정
+22.01.03 주제선정                         
+22.01.04 데이터 수집                       
+22.01.05 ~ 22.01.06 개발                             
+22.01.07 오류 수정 및 완성
+
+## 4.3 결과
+![image](https://user-images.githubusercontent.com/94373380/173245001-fded4c69-a0af-42b1-89a1-b16c5a74830c.png)
+
