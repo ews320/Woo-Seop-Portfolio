@@ -35,3 +35,18 @@ Python 3.8, OpenCV 4.5, Numpy 1.21, Matplotlib 3.5
 
 ## 2.3 결과
 ![image](https://user-images.githubusercontent.com/94373380/173244628-dfae1337-a2d3-4ddc-9ecf-c7c9d17ea94e.png)
+
+
+# 3. Tensorflow를 이용한 암 진단
+![image](https://user-images.githubusercontent.com/94373380/173244692-7c5ca719-51d2-4f5c-8b11-b19dcc2ce809.png)
+
+## 3.1 사용기술
+Python 3.8, Numpy 1.21, Pandas 1.3, Tensorflow 2.7, Matplotlib 3.5
+
+## 3.2 개발 일정
+22.01.05 ~ 22.01.06 구조 파악 및 신경망 제작
+22.01.07 오류 수정 및 완성
+
+## 3.3 결과
+![image](https://user-images.githubusercontent.com/94373380/173244822-51eb01d7-42b6-4e90-81bb-5530ca7a1573.png)
+
