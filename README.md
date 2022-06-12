@@ -11,4 +11,5 @@ Python 3.8, pygame
 21.12.10 마무리 작업 및 완성
 
 ## 1.3 결과
-![image](https://user-images.githubusercontent.com/94373380/173243223-50fb149d-587a-41c8-8529-af8dc6789b7d.png)
+![image](https://user-images.githubusercontent.com/94373380/173244001-524f0441-485d-45bf-88c0-8c690f384194.png)
+
